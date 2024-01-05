@@ -35,3 +35,5 @@ C:\Users\jessiane.zacarias\OneDrive\Application\Application\obj\Debug\net8.0\ref
 C:\Users\jessiane.zacarias\OneDrive\Application\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\jessiane.zacarias\OneDrive\Application\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
 C:\Users\jessiane.zacarias\OneDrive\Application\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\jessiane.zacarias\OneDrive\Application\Application\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\jessiane.zacarias\OneDrive\Application\Application\bin\Debug\net8.0\Infrastructure.pdb
