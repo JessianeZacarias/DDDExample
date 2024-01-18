@@ -1,0 +1,1 @@
+SELECT * FROM Veiculo WHERE Alugado = 1

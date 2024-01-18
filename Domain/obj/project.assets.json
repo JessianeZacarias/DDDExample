@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jessiane.zacarias\\.nuget\\packages\\": {},
+    "C:\\Users\\jessi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessiane.zacarias\\OneDrive\\Application\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\OneDrive\\Documentos\\OneDrive\\Arquivos Curso SENAC\\Application\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\jessiane.zacarias\\OneDrive\\Application\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\jessiane.zacarias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessiane.zacarias\\OneDrive\\Application\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\OneDrive\\Arquivos Curso SENAC\\Application\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\OneDrive\\Arquivos Curso SENAC\\Application\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jessiane.zacarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -12,6 +12,7 @@ namespace Domain.Enums
         Cruze = 2,
         Roadster = 3, 
         Tucson = 4,
-        Hatch = 5,
+        SUV = 5,
+        Hatch = 6,
     }
 }

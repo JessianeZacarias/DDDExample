@@ -1,7 +1,7 @@
 ﻿using Domain.Commands;
 using Domain.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Domain.Enums;
 
 namespace Application.Controllers
 {
@@ -14,24 +14,21 @@ namespace Application.Controllers
         {
             _veiculoService = veiculoService;
         }
+
         [HttpPost]
         [Route("CadastrarVeiculo")]
         public async Task<IActionResult> PostAsy([FromBody] VeiculoCommand command)
         {
-            await _veiculoService.PostAsync(command);
-            return Ok();
+            return Ok(await _veiculoService.PostAsync(command));
         }
+
         [HttpGet]
-        [Route("SimularAluguel")]
-        public IActionResult GetAsync()
-        {
-            return Ok();
+        [Route("VeiculosDisponíveis")]
+        public async Task<IActionResult> GetByIdAsync(bool Alugado) 
+        { 
+            return Ok(await _veiculoService.GetByIdAsync(Alugado));
+
         }
-        [HttpPost]
-        [Route("Alugar")]
-        public IActionResult PostAsync()
-        {
-            return Ok();
-        }
+
     }
 }
